@@ -36,7 +36,7 @@ I'm a software developer passionate about building **scalable web apps, AI-power
   <a href="https://linkedin.com/in/suraj-pratap8"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:surajpratap469@gmail.com"><img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://github.com/suraj8394"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-  <a href="https://leetcode.com/u/surajpratap469/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
+  
 </p>
 
 ---
