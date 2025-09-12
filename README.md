@@ -60,10 +60,10 @@ I'm a passionate developer who loves building **scalable web apps, AI-powered to
 
 ---
 
-## ✨ Fun GIF  
+## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZqlvCTNHpqrio/giphy.gif" width="250" />
+  <img src="https://github.com/suraj8394/suraj8394/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
