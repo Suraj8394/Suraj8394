@@ -25,7 +25,7 @@ I'm a software developer passionate about building **scalable web apps, AI-power
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2k3aWthYzZidjBsaTBkbmhvYmN3bDFnaHhlcDNtdXhzbW5iZXg5ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 ---
@@ -36,7 +36,7 @@ I'm a software developer passionate about building **scalable web apps, AI-power
   <a href="https://linkedin.com/in/suraj-pratap8"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:surajpratap469@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/suraj8394"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
+  <a href="https://leetcode.com/u/surajpratap469/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
 </p>
 
 ---
@@ -62,11 +62,16 @@ I'm a software developer passionate about building **scalable web apps, AI-power
 
 ---
 
-## 📌 Top Repositories and Most Used Languages  
+## 📈 LeetCode Stats  
 
-| 🔥 Top Repositories | 📊 Most Used Languages |
-|---------------------|------------------------|
-| [flipkart-scrapper](https://github.com/suraj8394/flipkart-scrapper) <br> *Flipkart scraper with selenium, beautifulsoup* | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj8394&theme=radical&layout=compact) |
-| [CampusFix](https://github.com/suraj8394/campusfix) <br> *Complaint Management System with React + Node.js* |   |
+<p align="center">
+  <a href="https://leetcode.com/u/surajpratap469/">
+    <img src="https://img.shields.io/badge/LeetCode-Suraj%20Pratap%20Singh-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Profile" />
+  </a>
+</p>
+
+| 🔢 Solved Problems | 📚 Languages | 🏅 Badges |
+|--------------------|--------------|----------|
+| ~242 (C++ + Java) | Dynamic Programming · Backtracking · Divide & Conquer · Hash Table · Math · DFS · Array · String · Sorting | 50 Days · LeetCoding Challenge |
 
 ---
