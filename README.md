@@ -62,13 +62,11 @@ I'm a software developer passionate about building **scalable web apps, AI-power
   </a>
 </p>
 
-| 🔢 Solved Problems | 📚 Topics | 🏅 Badges |
-|--------------------|-----------|----------|
-| 250+ (C++ + Java) | Dynamic Programming · Backtracking · Graphs · Divide & Conquer · Hashing · Arrays · Strings | 50 Days · LeetCoding Challenge |
+- 🔢 **Solved Problems:** 250+ (C++ + Java)  
+- 🏅 **Badges:** 50 Days · LeetCoding Challenge  
 
 ---
 
-## 🐍 Contribution Snake  
 
 <p align="center">
   <img src="https://github.com/suraj8394/suraj8394/blob/output/github-snake.svg" alt="snake animation" />
