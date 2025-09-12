@@ -1,28 +1,31 @@
-<h1 align="center"> 
-  Hi 👋, My name is Suraj Pratap Singh  
-</h1>
+# Hi 👋 My name is Suraj Pratap Singh  
 
-<p align="center">
+**Software Developer**  
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=suraj8394&label=Profile%20views&color=0e75b6&style=flat" alt="suraj8394" /> 
 </p>
 
 ---
 
-## 💻 Software Engineer | Full Stack Developer | Backend Developer | SDE  
+I'm a software developer passionate about building **scalable web apps, AI-powered tools, and solving real-world problems**.  
 
-I'm a passionate developer who loves building **scalable web apps, AI-powered tools, and solving DSA problems**.  
-
-- 🌍 Based in **Mathura, Uttar Pradesh, India**  
-- ✉️ Reach me at: [surajpratap469@gmail.com](mailto:surajpratap469@gmail.com)  
-- 🧑‍💻 Currently working on **MERN + AI projects**  
-- ⚡ Fun fact: Coffee + Code = Happiness ☕💻  
+- 🌍 I'm based in Mathura, Uttar Pradesh, India  
+- ✉️ You can contact me at [surajpratap469@gmail.com](mailto:surajpratap469@gmail.com)  
+- ⚡ Fun fact: Coffee ☕ + Code 💻 = Happiness 🚀  
 
 ---
 
-## 🚀 Tech Stack & Tools  
+## 🛠️ Skills & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,react,nodejs,express,mongodb,fastapi,html,css,tailwind,git,github,vercel,vscode,figma,postman&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,java,nodejs,express,react,mongodb,fastapi,html,css,tailwind,git,github,vercel,vscode,figma,postman&perline=9" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2k3aWthYzZidjBsaTBkbmhvYmN3bDFnaHhlcDNtdXhzbW5iZXg5ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" />
 </p>
 
 ---
@@ -51,21 +54,19 @@ I'm a passionate developer who loves building **scalable web apps, AI-powered to
 
 ---
 
-## 🏆 Achievements  
-
-- 👨‍💼 **Founder & CEO – TrekTideTravel** (raised ₹1,00,000 funding 🚀)  
-- 🥉 Bronze Medalist – **IIT Delhi Tryst Event (RC Car Racing)**  
-- 🎖️ Member – **OWASIS group, DSO (Student Welfare)**  
-- 🎓 Induction Mentor (2024)  
-
----
-
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/suraj8394/suraj8394/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/suraj8394/suraj8394/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-⭐️ From [Suraj Pratap Singh](https://github.com/suraj8394)
+## 📌 Top Repositories and Most Used Languages  
+
+| 🔥 Top Repositories | 📊 Most Used Languages |
+|---------------------|------------------------|
+| [flipkart-scrapper](https://github.com/suraj8394/flipkart-scrapper) <br> *Flipkart scraper with selenium, beautifulsoup* | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj8394&theme=radical&layout=compact) |
+| [CampusFix](https://github.com/suraj8394/campusfix) <br> *Complaint Management System with React + Node.js* |   |
+
+---
