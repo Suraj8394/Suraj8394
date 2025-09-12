@@ -8,11 +8,11 @@
 
 ---
 
-I'm a software developer passionate about building **scalable web apps, AI-powered tools, and solving real-world problems**.  
+I'm a software developer with a strong focus on **Web Development & Backend Systems**.  
 
 - 🌍 I'm based in Mathura, Uttar Pradesh, India  
 - ✉️ You can contact me at [surajpratap469@gmail.com](mailto:surajpratap469@gmail.com)  
-- ⚡ Fun fact: Coffee ☕ + Code 💻 = Happiness 🚀  
+- ⚡ Fun fact: Coffee ☕ turns into code 💻 when I sit down to work!  
 
 ---
 
@@ -34,22 +34,9 @@ I'm a software developer passionate about building **scalable web apps, AI-power
 
 <p align="center">
   <a href="https://linkedin.com/in/suraj-pratap8"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:surajpratap469@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:surajpratap469@gmail.com"><img src="https://img.shields.io/badge/Outlook-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://github.com/suraj8394"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
   <a href="https://leetcode.com/u/surajpratap469/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suraj8394&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj8394&theme=radical" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj8394&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -62,16 +49,15 @@ I'm a software developer passionate about building **scalable web apps, AI-power
 
 ---
 
-## 📈 LeetCode Stats  
+## 📌 Top Repositories and Most Used Languages  
+
+<a href="https://github.com/suraj8394/flipkart-scrapper">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=suraj8394&repo=flipkart-scrapper&theme=radical" />
+</a>
+<a href="https://github.com/suraj8394/campusfix">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=suraj8394&repo=campusfix&theme=radical" />
+</a>
 
 <p align="center">
-  <a href="https://leetcode.com/u/surajpratap469/">
-    <img src="https://img.shields.io/badge/LeetCode-Suraj%20Pratap%20Singh-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Profile" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj8394&layout=compact&theme=radical" />
 </p>
-
-| 🔢 Solved Problems | 📚 Languages | 🏅 Badges |
-|--------------------|--------------|----------|
-| ~242 (C++ + Java) | Dynamic Programming · Backtracking · Divide & Conquer · Hash Table · Math · DFS · Array · String · Sorting | 50 Days · LeetCoding Challenge |
-
----
