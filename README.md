@@ -1,80 +1,71 @@
-# Hi 👋 I'm Suraj Pratap Singh  
+<h1 align="center"> 
+  Hi 👋, My name is Suraj Pratap Singh  
+</h1>
 
-## 🚀 Software Engineer | Full Stack Developer | Backend Developer | SDE  
-
-- 🌍 Based in Mathura, Uttar Pradesh, India  
-- 🎓 B.Tech in Computer Science & Engineering at Lovely Professional University (CGPA: 8.07/10.0)  
-- ✉️ Reach me at: [surajpratap469@gmail.com](mailto:surajpratap469@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/suraj-pratap8](https://linkedin.com/in/suraj-pratap8)  
-- 🧑‍💻 GitHub: [github.com/suraj8394](https://github.com/suraj8394)  
-- ⚡ Fun fact: I love building products from scratch and solving problems with scalable code 🚀  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suraj8394&label=Profile%20views&color=0e75b6&style=flat" alt="suraj8394" /> 
+</p>
 
 ---
 
-## 🛠️ Skills & Tools  
+## 💻 Software Engineer | Full Stack Developer | Backend Developer | SDE  
 
-**Programming Languages:** JavaScript (ES6+), C++, Java  
-**Frameworks & Databases:** Node.js, Express.js, FastAPI, REST APIs, MongoDB, SQL  
-**Tools & Platforms:** Git, GitHub, Postman, Render, Vercel, VS Code, Figma  
-**Core Strengths:** Data Structures & Algorithms, Backend Architecture, Problem Solving, Agile Mindset  
+I'm a passionate developer who loves building **scalable web apps, AI-powered tools, and solving DSA problems**.  
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- 🌍 Based in **Mathura, Uttar Pradesh, India**  
+- ✉️ Reach me at: [surajpratap469@gmail.com](mailto:surajpratap469@gmail.com)  
+- 🧑‍💻 Currently working on **MERN + AI projects**  
+- ⚡ Fun fact: Coffee + Code = Happiness ☕💻  
+
+---
+
+## 🚀 Tech Stack & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,react,nodejs,express,mongodb,fastapi,html,css,tailwind,git,github,vercel,vscode,figma,postman&perline=9" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/suraj-pratap8"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:surajpratap469@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/suraj8394"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suraj8394&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suraj8394&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=suraj8394&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suraj8394&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suraj8394&theme=radical" alt="streak" />
+</p>
 
----
-
-## 💡 Projects  
-
-### 🔹 AI Chatbot Web Application – GPT-3.5 Powered MERN Stack  
-- Developed a scalable AI chatbot using **React, Node.js, Express, MongoDB**.  
-- Integrated **OpenAI GPT-3.5 API** for intelligent real-time conversations.  
-- Added **JWT authentication** and mobile responsiveness via Tailwind CSS.  
-
-### 🔹 CampusFix – Complaint Management System  
-- Built role-specific dashboards for **students, staff, and admins**.  
-- Implemented **real-time updates** using secure APIs & JWT authentication.  
-- Designed stateful complaint lifecycle management system.  
-
-### 🔹 Code Visualizer & Optimizer – AI-Powered Error Detection  
-- Created a web tool to **scan, visualize, and optimize code**.  
-- Used GPT for AI-driven suggestions on syntax fixes & performance optimization.  
-- Built interactive editor with **error highlighting & insights**.  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj8394&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 🏆 Achievements  
 
-- 🧑‍💼 Founder & CEO of **TrekTideTravel** – raised ₹1,00,000 in seed funding and launched in 6 months.  
-- 🥉 Bronze Medalist at **Tryst Event (Remote Control Car Racing), IIT Delhi**.  
-- 🎖️ Member of **OWASIS group** at Division of Student Welfare.  
-- 🎓 Induction Mentor for Freshers (2024).  
+- 👨‍💼 **Founder & CEO – TrekTideTravel** (raised ₹1,00,000 funding 🚀)  
+- 🥉 Bronze Medalist – **IIT Delhi Tryst Event (RC Car Racing)**  
+- 🎖️ Member – **OWASIS group, DSO (Student Welfare)**  
+- 🎓 Induction Mentor (2024)  
 
 ---
 
-## 📜 Certifications  
+## ✨ Fun GIF  
 
-- **Data Structures & Algorithms (GeeksForGeeks)** – Oct 2023  
-- **Prompt Engineering for ChatGPT (Vanderbilt University)** – Jan 2024  
-
----
-
-## 🔗 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/suraj-pratap8)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/suraj8394)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:surajpratap469@gmail.com)  
+<p align="center">
+  <img src="https://media.giphy.com/media/ZqlvCTNHpqrio/giphy.gif" width="250" />
+</p>
 
 ---
 
-⭐️ From [Suraj Pratap Singh](https://github.com/suraj8394)  
+⭐️ From [Suraj Pratap Singh](https://github.com/suraj8394)
